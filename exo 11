@@ -1,0 +1,3 @@
+1) Créer un fichier json sur un server web (paramétre appache pour acceper les requetes https cross-platform).
+2)Créer un fichier html sur un autre server web avec son fichier.JS
+3)Codé en JS un fetch qui affiche dans une div le contenue du fichier json (celui qui est sur le premier server de la question 1)
